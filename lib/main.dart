@@ -10,12 +10,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Peters Week 5',
+      title: 'Week 6 Git',
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
         colorScheme: ColorScheme.fromSwatch(primarySwatch: Colors.deepPurple),
       ),
-      home: const MyHomePage(title: 'Peters Week 5'),
+      home: const MyHomePage(title: 'Week 6 Git'),
     );
   }
 }
